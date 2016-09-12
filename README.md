@@ -1,3 +1,3 @@
 # hello-world
 my first project
-this si my first operation to GitHub
+this is my first operation to GitHub
